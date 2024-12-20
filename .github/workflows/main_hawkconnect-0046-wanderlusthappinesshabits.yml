@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'hawkconnect-0046-wanderlusthappinesshabits'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C2DD838B153498197EAF932FB908825 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF25E460C6834DCF859841BD2E8AF4D8 }}
           package: .
